@@ -12,7 +12,10 @@
     <div class="content">
         <table class="form">
             <tr>
-                <td style="text-align: right;"><a onclick="window.location='index.php?route=report/product_purchased_percent/foundation&token=<?php echo $token; ?>'" class="button"><?php echo "Show All"; ?></a>
+                <td style="text-align: right;">
+                    <a onclick="window.location='index.php?route=report/product_purchased_percent/foundation&token=<?php echo $token; ?>'" class="button"><?php echo "Show All"; ?></a>
+                    <a onclick="window.location='index.php?route=report/product_purchased_percent/reportcsv&token=<?php echo $token; ?>'" class="button"><?php echo "Generate CSV Report"; ?></a>
+                </td>
 
             </tr>
         </table>

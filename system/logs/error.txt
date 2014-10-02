@@ -551,3 +551,4 @@
 2014-10-01 15:42:01 - PHP Notice:  Undefined variable: column_percent in /var/www/html/alltrueistic/admin/view/template/report/manufacturers.tpl on line 17
 2014-10-01 15:42:02 - PHP Notice:  Undefined variable: column_percent in /var/www/html/alltrueistic/admin/view/template/report/manufacturers.tpl on line 17
 2014-10-01 16:30:29 - PHP Notice:  Undefined variable: button_filter in /var/www/html/alltrueistic/admin/view/template/report/manufacturers.tpl on line 15
+2014-10-02 14:17:43 - PHP Notice:  Undefined variable: text_no_results in /var/www/html/alltrueistic/admin/controller/report/product_purchased_percent.php on line 424

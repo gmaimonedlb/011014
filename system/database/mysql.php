@@ -1,4 +1,6 @@
 <?php
+error_reporting(E_ALL ^ E_DEPRECATED);
+
 final class DBMySQL {
 	private $link;
 
